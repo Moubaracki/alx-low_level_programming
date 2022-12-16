@@ -4,7 +4,7 @@
  *  _isdigit - check for digit
  *
  *  @c: integer
- * 
+ *
  *  Return: 1 if it is a digit
  */
 int _isdigit(int c)
@@ -16,5 +16,6 @@ int _isdigit(int c)
 	else
 	{
 		return (0);
+
 	}
 }
